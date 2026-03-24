@@ -2,7 +2,7 @@
 
 ## Live Dashboard
 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDExM2E4M2UtMzM3Mi00NmExLWI1ODUtOTk1OGIwMmJlZWNmIiwidCI6Ijg5ODJiNGEyLThmMTMtNDFjZS04NzllLTU2NmViZWI0ODFkMSIsImMiOjl9)
-
+Note: Best viewed on desktop for full interactivity.
 ---
 
 ## Overview
