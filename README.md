@@ -1,14 +1,14 @@
 # Retail Operations Power BI Dashboard
 
+## Live Dashboard
+[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDExM2E4M2UtMzM3Mi00NmExLWI1ODUtOTk1OGIwMmJlZWNmIiwidCI6Ijg5ODJiNGEyLThmMTMtNDFjZS04NzllLTU2NmViZWI0ODFkMSIsImMiOjl9)
+
+---
+
 ## Overview
 End-to-end Business Intelligence project focused on improving retail operations visibility by centralising sales, inventory, and store performance data.
 
 This dashboard replaces fragmented manual reporting with a structured, scalable solution that supports faster and more informed decision-making.
-
----
-
-## Live Dashboard
-[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDExM2E4M2UtMzM3Mi00NmExLWI1ODUtOTk1OGIwMmJlZWNmIiwidCI6Ijg5ODJiNGEyLThmMTMtNDFjZS04NzllLTU2NmViZWI0ODFkMSIsImMiOjl9)
 
 ---
 
