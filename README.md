@@ -3,6 +3,8 @@
 ## Live Dashboard
 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDExM2E4M2UtMzM3Mi00NmExLWI1ODUtOTk1OGIwMmJlZWNmIiwidCI6Ijg5ODJiNGEyLThmMTMtNDFjZS04NzllLTU2NmViZWI0ODFkMSIsImMiOjl9)
 
+Note: Best viewed on desktop for full interactivity.
+
 ---
 
 ## Overview
@@ -18,7 +20,7 @@ This dashboard replaces fragmented manual reporting with a structured, scalable 
 ---
 
 ## Business Problem
-Retail operations lacked a centralised reporting structure, resulting in:
+Retail operations lacked a centralised reporting structure, resulting in: 
 - Limited visibility into sales and inventory performance
 - Inefficient decision-making
 - Manual and time-consuming reporting processes
