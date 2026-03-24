@@ -8,7 +8,7 @@
 ## Overview
 End-to-end Business Intelligence project focused on improving retail operations visibility by centralising sales, inventory, and store performance data.
 
-This dashboard replaces fragmented manual reporting with a structured, scalable solution that supports faster and more informed decision-making.
+This dashboard replaces fragmented manual reporting with a structured, scalable solution that supports faster and more informed decision-making. Demonstrating how operational data can be translated into actionable insights.
 
 ---
 
